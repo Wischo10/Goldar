@@ -1,4 +1,10 @@
 # Sistem Pendataan Golongan Darah Dengan Menggunakan Teknologi Blockchain
+
+## Sumber daya yang dibutuhkan sebelum menjalankan aplikasi
+1. Visual studio Code
+2. Ganache
+3. Ekstension Vue for visual studio code
+
 ## Perintah untuk file backend
 1. Pada file backend lakukan "truffle compile"
 2. kemudian setelah berhasil cari file build/contracts/GolDarah.sol copypaste semua isi-nya
